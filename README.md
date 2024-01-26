@@ -31,6 +31,9 @@ This PowerShell script allows you to check the security features (NX Compatibili
 
 ![image](https://github.com/joelindra/S3CCH3CK/assets/44172898/47124b4f-8938-406d-ae2e-b77ab6c5ecf2)
 
+![image](https://github.com/joelindra/S3CCH3CK/assets/44172898/f600a341-23d9-4dce-984f-4b5d12a5c7c0)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
