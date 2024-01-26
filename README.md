@@ -15,7 +15,7 @@ This PowerShell script allows you to check the security features (NX Compatibili
 
 ## Usage
 
-1. **Download the script:** [s3check.ps1]
+1. **Download the script:** [seccheck.ps1]
 
 2. **Run the script:**
    - Open PowerShell.
